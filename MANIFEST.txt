@@ -1,0 +1,10 @@
+Codex Usage Float package manifest
+Generated: 2026-09-14
+
+CodexUsageWatcher.ps1`t1279 bytes
+CodexUsageWindow.ps1`t6480 bytes
+Install-CodexUsageFloat.ps1`t1766 bytes
+README.md`t1804 bytes
+Start-CodexUsageFloat.ps1`t483 bytes
+Stop-CodexUsageFloat.ps1`t762 bytes
+Uninstall-CodexUsageFloat.ps1`t566 bytes
